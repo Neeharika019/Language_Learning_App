@@ -1,3 +1,4 @@
+HEAD
 
 # Language Learning App
 
@@ -36,3 +37,7 @@ Download Expo go from Playstore/ App store & scan the QR
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+=======
+# Language_Learning_App
+A platform for Learning Multiple Languages with Interactive Learning Methods.
+8fbf5d87eec1db5c0107ae4cafb82442b5d4035d
